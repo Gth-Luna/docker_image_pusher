@@ -7,4 +7,5 @@
 #mysql:lts
 #neo4j:latest
 #centos:centos7.9.2009
-python:3.12.1-slim
+#python:3.12.1-slim
+debian:bookworm-slim
